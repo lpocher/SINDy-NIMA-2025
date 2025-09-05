@@ -1,0 +1,34 @@
+1 0.0
+z 0.0
+x_c 0.0
+y_c 0.0
+cos(k_0 z) 0.0
+cos(k_1 z) -302689461.35802966
+cos(k_2 z) 451822070976.7157
+sin(k_0 z) 7060913685.186908
+sin(k_1 z) 0.0
+sin(k_2 z) 0.0
+1 cos(k_0 z) 0.0
+1 cos(k_1 z) 302689461.36224365
+1 cos(k_2 z) -451822070976.7127
+1 sin(k_0 z) -7060913685.192578
+1 sin(k_1 z) 0.0
+1 sin(k_2 z) 0.0
+z cos(k_0 z) 0.0
+z cos(k_1 z) 0.0
+z cos(k_2 z) 0.0
+z sin(k_0 z) 0.0
+z sin(k_1 z) 0.0
+z sin(k_2 z) 0.0
+x_c cos(k_0 z) 0.0
+x_c cos(k_1 z) 0.0
+x_c cos(k_2 z) 0.0
+x_c sin(k_0 z) 0.0
+x_c sin(k_1 z) 0.0
+x_c sin(k_2 z) 0.0
+y_c cos(k_0 z) 0.0
+y_c cos(k_1 z) 0.0
+y_c cos(k_2 z) 0.0
+y_c sin(k_0 z) 0.0
+y_c sin(k_1 z) 0.0
+y_c sin(k_2 z) 0.0
